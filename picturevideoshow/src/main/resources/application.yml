@@ -1,0 +1,10 @@
+
+
+server:
+  port: 1236
+  
+show:
+  image: C:/Users/LMS/Desktop/img/
+  video: C:/Users/LMS/Desktop/video/
+  imagevideopath: /home/sripis/rooftest/
+  
