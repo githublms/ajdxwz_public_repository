@@ -1,0 +1,10 @@
+
+logging:
+  config: classpath:log4j2/log4j2.xml
+
+
+server:
+  port: 1236
+
+test:
+  demo: D:/mylog
